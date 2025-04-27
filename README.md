@@ -1,1 +1,3 @@
-# Python_2025.04.27
+# Study Python
+  - Study set. 
+  - continue -> set : join and methods
